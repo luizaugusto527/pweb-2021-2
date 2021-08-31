@@ -11,6 +11,15 @@ button{
     border-radius: 5px;
     
 }
+footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 15px;
+}
 .header-title{
     color: white;
     background-color: blue;
@@ -23,12 +32,12 @@ button{
 }
 .card{
     background-color: white;
-    width: 1200px;
-    margin-bottom: 10px;
+    width: calc(100% - 200px);
     border-radius: 10px;
     box-shadow: 2px 3px rgba(163, 163, 163, 0.5);
     border: 1px solid rgb(151, 151, 151);
     padding: 20px;
+    margin: 10px auto;
     
 }
 
@@ -43,3 +52,16 @@ button{
     text-align: justify;
     margin-bottom: 20px;
 }
+.card-form{
+    width: 80%;
+  
+}
+
+.form-input{
+    width: 90%;
+}
+.form-group{
+    margin-bottom: 20px;
+
+}
+

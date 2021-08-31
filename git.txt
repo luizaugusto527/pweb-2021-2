@@ -1,0 +1,19 @@
+readme é formato markdown
+git init cria um repositório local
+git status 
+git . deixa rastreado para o git (tira untracked)
+git config --global user.email "seuemail"
+git commit -m "nomedocommit"
+
+
+Para um dev cada tarefa é um commit
+
+o (master é o branchs padrão mas o recomendado agora é o main)
+git branch -M main
+ 
+
+git remote rm origin
+
+Na segunda vez
+git add.
+git commit -m "swsw"
